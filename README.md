@@ -15,7 +15,6 @@ El objetivo del proyecto es implementar un prototipo de apoyo a la gestión admi
 ## Estructura del repositorio
 
 ```text
-.
 ├── TFG-AdjudicaciónAutomática/
 ├── TFG-AutorizaciónIngles/
 ├── TFG-BajaMutuoAcuerdo/
